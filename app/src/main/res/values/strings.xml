@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Product Control</string>
+    <string name="name">Name</string>
+    <string name="id">ID of Product</string>
+    <string name="price">Price of Product</string>
+    <string name="search">Search Product</string>
+    <string name="add">Add product</string>
+    <string name="delete">Delete Product</string>
+    <string name="modify">Modify Product</string>
+</resources>
